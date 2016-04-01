@@ -1,2 +1,2 @@
 # hello-world
-hello github
+hello github, I like simple ideas
